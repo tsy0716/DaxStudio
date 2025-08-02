@@ -1,0 +1,4 @@
+pygls>=1.0.0
+lsprotocol>=2023.0.1
+asyncio
+typing
